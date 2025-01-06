@@ -31,6 +31,7 @@ Test Case 004
     Log     ${current_year}
     Log     ${current_Time}
     Log Var1
+    Log Var1
 *** Keywords ***
 Log Var1
     ${Date}=    Get Time
